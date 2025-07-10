@@ -45,7 +45,7 @@ function Basic(){
         //chatData.push({sender : "user", sender_id : name, msg : msg});
         
 
-          await fetch('http://http://187.33.155.76:5005/webhooks/rest/webhook', {
+          await fetch('http://187.33.155.76:5005/webhooks/rest/webhook', {
             method: 'POST',
             headers: {
               'Accept': 'application/json',
