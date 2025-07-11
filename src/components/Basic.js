@@ -186,7 +186,7 @@ function Basic(){
         <div className="row justify-content-center">
             <div className="card" style={stylecard}>
                 <div className="cardHeader text-white" style={styleHeader}>
-                    <h1 style={{marginBottom:'0px'}}>UNIBOT SUPPORT</h1>
+                    <h1 style={{marginBottom:'0px'}}>SPANISH</h1>
                     {botTyping ? <h6>Bot Typing....</h6> : null}
                 </div>
                 <div className="cardBody" id="messageArea" style={styleBody}>

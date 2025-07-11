@@ -4,7 +4,7 @@ import Basic from "./components/Basic"
 function App() {
   return (
     <div className="App">
-      <h1>UNI-Bot</h1>
+      <h1>RASA BOT</h1>
       <Basic />
     </div>
   );
